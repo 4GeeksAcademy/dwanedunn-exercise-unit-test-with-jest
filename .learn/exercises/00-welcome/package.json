@@ -1,0 +1,12 @@
+{
+  "name": "00-welcome",
+  "version": "1.0.0",
+  "description": "--- intro: \"https://www.youtube.com/watch?v=r2L0FfAHdqI\" ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

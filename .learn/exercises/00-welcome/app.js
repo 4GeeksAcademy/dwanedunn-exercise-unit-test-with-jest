@@ -15,8 +15,3 @@ const sum = (a,b) => {
 // (similar to the keyword "export" when using webpack)
 module.exports = { sum, fromEuroToDOllar };
 
-
-
-
-// Just a console log for ourselves
-//console.log(sum(7,3))
